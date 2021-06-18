@@ -9,6 +9,7 @@ visualização feita a partir do python :)
  * Gustavo Sanches
  * Lucas Treuke
  * Vanessa Wille
+ * Lozenzo Alencastro
 
 ### Git
 [Visualização VgSales -> GustavoSanches55](https://github.com/GustavoSanches55/visualizacao_vgsales)

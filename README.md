@@ -1,4 +1,4 @@
-# visualizacao do banco de dados VG Sales
+# Visualização do banco de dados VG Sales
 
 Análise de dados sobre jogos! :)
 
@@ -19,9 +19,9 @@ Análise de dados sobre jogos! :)
 [Vgsales](https://www.kaggle.com/gregorut/videogamesales)
 
 ### Perguntas a serem respondidas:
- * Como as plataformas se destacam? (Quais possuem mais títulos, quais venderam mais, uma coisa implica na outra?, como isso varia com o tempo?) 
- * Como se sobressaem os títulos de franquias ou sequências grandes? (Tentar identificar sequências como Sonic 1, Sonic 2, Sonic 3...)
- * Como é a relação entre Gêneros dos Jogos e as regiões de vendas? (Onde vendem mais jogos de ação e quanto isso varia, etc)
+ * Como as plataformas se destacam? Quais possuem mais títulos? Quais venderam mais? 
+ * Como se sobressaem os títulos de franquias ou sequências grandes?
+ * Como é a relação entre os gêneros dos jogos e as regiões de vendas? 
  
  ### E-mail de contato
  gsanchescosta@yahoo.com.br

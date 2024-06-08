@@ -10,6 +10,7 @@ Análise de dados sobre jogos para a disciplina de introdução de ciência de d
  * Lucas Treuke
  * Vanessa Wille
  * Lozenzo Alencastro
+ * Bruno Fornaro
 
 ### Git
 [Visualização VgSales -> GustavoSanches55](https://github.com/GustavoSanches55/visualizacao_vgsales)

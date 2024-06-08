@@ -1,6 +1,6 @@
 # Visualização do banco de dados VG Sales
 
-Análise de dados sobre jogos! :)
+Análise de dados sobre jogos para a disciplina de introdução de ciência de dados.
 
 ## Grupo 5
 
@@ -25,5 +25,3 @@ Análise de dados sobre jogos! :)
  
  ### E-mail de contato
  gsanchescosta@yahoo.com.br
-
- teste
